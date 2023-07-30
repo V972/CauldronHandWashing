@@ -1,0 +1,9 @@
+{
+    "author": "V972", 
+    "description": "Adds the ability to wash your hands, filthy from mining and whatnot, in a cauldron full of water or under a running faucet, preferably with a soap.", 
+
+    "versions": [8],
+    "modloaders": ["forge"], 
+    "dependencies": ["mod:supplementaries"], 
+    "incompatibilities": []
+}
