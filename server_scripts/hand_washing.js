@@ -1,7 +1,12 @@
 // Caudron washing v 1.0
 // By V972
-// KubeJS 1.18.2
-// REQURES SUPPLEMENTARIES!
+//
+// Requires:
+// - KubeJS 8 (1.18.2)
+// - Supplementaries mod
+//
+// Also available on KJSPKG: https://kjspkglookup.modernmodpacks.site/#cauldron-hand-washing
+
 // priority 1
 
 onEvent('block.right_click', (event) => {
